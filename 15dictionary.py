@@ -18,7 +18,7 @@
 # print(d)
 # d.update({3:35})
 # print(d)
-# q = d.fromkeys([1,2],15)
+# q = d.fromkeys(["name",2],15)
 # print(q)
 
 #traversing (loops)
